@@ -1,33 +1,33 @@
 Abrantes
- Agueda
+ Águeda
  Aguiar da Beira
  Alandroal
  Albergaria-a-Velha
  Albufeira
- Alcacer do Sal
+ Alcácer do Sal
  Alcanena
- Alcobaca
+ Alcobaça
  Alcochete
  Alcoutim
  Alenquer
- Alfandega da Fe
- Alijo
+ Alfândega da Fé
+ Alijó
  Aljezur
  Aljustrel
  Almada
  Almeida
  Almeirim
- Almodovar
- Alpiarca
- Alter do Chao
- Alvaiazere
+ Almodôvar
+ Alpiarça
+ Alter do Chão
+ Alvaiázere
  Alvito
  Amadora
  Amarante
  Amares
  Anadia
- Angra do Heroismo
- Ansiao
+ Angra do Heroísmo
+ Ansião
  Arcos de Valdevez
  Arganil
  Armamar
@@ -38,7 +38,7 @@ Abrantes
  Aveiro
  Avis
  Azambuja
- Baiao
+ Baião
  Barcelos
  Barrancos
  Barreiro
@@ -50,21 +50,21 @@ Abrantes
  Borba
  Boticas
  Braga
- Braganca
+ Bragança
  Cabeceiras de Basto
  Cadaval
  Caldas da Rainha
  Calheta [R.A.A.]
  Calheta [R.A.M.]
- Camara de Lobos
+ Câmara de Lobos
  Caminha
  Campo Maior
  Cantanhede
- Carrazeda de Ansiaes
+ Carrazeda de Ansiães
  Carregal do Sal
  Cartaxo
  Cascais
- Castanheira de Pera
+ Castanheira de Pêra
  Castelo Branco
  Castelo de Paiva
  Castelo de Vide
@@ -75,13 +75,13 @@ Abrantes
  Celorico de Basto
  Chamusca
  Chaves
- Cinfaes
+ Cinfães
  Coimbra
  Condeixa-a-Nova
- Constancia
+ Constância
  Coruche
  Corvo
- Covilha
+ Covilhã
  Crato
  Cuba
  Elvas
@@ -90,31 +90,31 @@ Abrantes
  Esposende
  Estarreja
  Estremoz
- Evora
+ Évora
  Fafe
  Faro
  Felgueiras
  Ferreira do Alentejo
- Ferreira do Zezere
+ Ferreira do Zêzere
  Figueira da Foz
  Figueira de Castelo Rodrigo
- Figueiro dos Vinhos
+ Figueiró dos Vinhos
  Fornos de Algodres
- Freixo de Espada a Cinta
+ Freixo de Espada à Cinta
  Fronteira
  Funchal
- Fundao
- Gaviao
- Gois
- Golega
+ Fundão
+ Gavião
+ Góis
+ Golegã
  Gondomar
  Gouveia
- Grandola
+ Grândola
  Guarda
- Guimaraes
+ Guimarães
  Horta
  Idanha-a-Nova
- Ilhavo
+ Ílhavo
  Lagoa
  Lagoa [R.A.A.]
  Lagos
@@ -123,12 +123,12 @@ Abrantes
  Lamego
  Leiria
  Lisboa
- Loule
+ Loulé
  Loures
- Lourinha
- Lousa
+ Lourinhã
+ Lousã
  Lousada
- Macao
+ Mação
  Macedo de Cavaleiros
  Machico
  Madalena
@@ -138,13 +138,13 @@ Abrantes
  Manteigas
  Marco de Canaveses
  Marinha Grande
- Marvao
+ Marvão
  Matosinhos
  Mealhada
- Meda
- Melgaco
- Mertola
- Mesao Frio
+ Mêda
+ Melgaço
+ Mértola
+ Mesão Frio
  Mira
  Miranda do Corvo
  Miranda do Douro
@@ -152,7 +152,7 @@ Abrantes
  Mogadouro
  Moimenta da Beira
  Moita
- Moncao
+ Monção
  Monchique
  Mondim de Basto
  Monforte
@@ -161,34 +161,34 @@ Abrantes
  Montemor-o-Velho
  Montijo
  Mora
- Mortagua
+ Mortágua
  Moura
- Mourao
- Murca
+ Mourão
+ Murça
  Murtosa
- Nazare
+ Nazaré
  Nelas
  Nisa
  Nordeste
- Obidos
+ Óbidos
  Odemira
  Odivelas
  Oeiras
  Oleiros
- Olhao
- Oliveira de Azemeis
+ Olhão
+ Oliveira de Azeméis
  Oliveira de Frades
  Oliveira do Bairro
  Oliveira do Hospital
- Ourem
+ Ourém
  Ourique
  Ovar
- Pacos de Ferreira
+ Paços de Ferreira
  Palmela
  Pampilhosa da Serra
  Paredes
  Paredes de Coura
- Pedrogao Grande
+ Pedrógão Grande
  Penacova
  Penafiel
  Penalva do Castelo
@@ -196,7 +196,7 @@ Abrantes
  Penedono
  Penela
  Peniche
- Peso da Regua
+ Peso da Régua
  Pinhel
  Pombal
  Ponta Delgada
@@ -206,15 +206,15 @@ Abrantes
  Ponte de Sor
  Portalegre
  Portel
- Portimao
+ Portimão
  Porto
- Porto de Mos
+ Porto de Mós
  Porto Moniz
  Porto Santo
- Povoa de Lanhoso
- Povoa de Varzim
- Povoacao
- Proenca-a-Nova
+ Póvoa de Lanhoso
+ Póvoa de Varzim
+ Povoação
+ Proença-a-Nova
  Redondo
  Reguengos de Monsaraz
  Resende
@@ -225,40 +225,40 @@ Abrantes
  Sabrosa
  Sabugal
  Salvaterra de Magos
- Santa Comba Dao
+ Santa Comba Dão
  Santa Cruz
  Santa Cruz da Graciosa
  Santa Cruz das Flores
  Santa Maria da Feira
- Santa Marta de Penaguiao
+ Santa Marta de Penaguião
  Santana
- Santarem
- Santiago do Cacem
+ Santarém
+ Santiago do Cacém
  Santo Tirso
- Sao Bras de Alportel
- Sao Joao da Madeira
- Sao Joao da Pesqueira
- Sao Pedro do Sul
- Sao Roque do Pico
- Sao Vicente
+ São Brás de Alportel
+ São João da Madeira
+ São João da Pesqueira
+ São Pedro do Sul
+ São Roque do Pico
+ São Vicente
  Sardoal
- Satao
+ Sátão
  Seia
  Seixal
  Sernancelhe
  Serpa
- Serta
+ Sertã
  Sesimbra
- Setubal
+ Setúbal
  Sever do Vouga
  Silves
  Sines
  Sintra
- Sobral de Monte Agraco
+ Sobral de Monte Agraço
  Soure
  Sousel
- Tabua
- Tabuaco
+ Tábua
+ Tabuaço
  Tarouca
  Tavira
  Terras de Bouro
@@ -271,16 +271,16 @@ Abrantes
  Trofa
  Vagos
  Vale de Cambra
- Valenca
+ Valença
  Valongo
- Valpacos
+ Valpaços
  Velas
  Vendas Novas
  Viana do Alentejo
  Viana do Castelo
  Vidigueira
  Vieira do Minho
- Vila da Praia da Vitoria
+ Vila da Praia da Vitória
  Vila de Rei
  Vila do Bispo
  Vila do Conde
@@ -290,17 +290,17 @@ Abrantes
  Vila Franca do Campo
  Vila Nova da Barquinha
  Vila Nova de Cerveira
- Vila Nova de Famalicao
- Vila Nova de Foz Coa
+ Vila Nova de Famalicão
+ Vila Nova de Foz Côa
  Vila Nova de Gaia
  Vila Nova de Paiva
  Vila Nova de Poiares
  Vila Pouca de Aguiar
  Vila Real
- Vila Real de Santo Antonio
- Vila Velha de Rodao
+ Vila Real de Santo António
+ Vila Velha de Ródão
  Vila Verde
- Vila Vicosa
+ Vila Viçosa
  Vimioso
  Vinhais
  Viseu
